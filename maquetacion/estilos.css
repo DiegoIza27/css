@@ -1,0 +1,50 @@
+* {
+    background-color: #ac43439d;
+}
+h2{
+    color: #ffff;
+    font-size: 25px;
+}
+.titulo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(219, 192, 34);
+}
+
+
+/* comentarios  en css*/
+.parrafo1 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    color: #ffff;
+    
+
+}
+/* estilo de mi css  */
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-style: italic;
+    /* font-weight: 1000; */
+    font-weight: bold;
+    color: rgb(221, 205, 184);
+    text-align: left;
+    /* text-trasform sirve para capitalizar */
+    text-transform: uppercase;
+    text-indent: 40px;
+    /* espacio de linea  */
+    line-height: 2;
+    /* word space es el espacio entre palarbas  */
+    word-spacing: 20px;
+    /* text shadow sirve para dar sombra al texto  */
+    text-shadow: 10px 10px 10px  rgb(34, 32, 32);
+    /* leter-space */
+    letter-spacing: 10px;
+}
+div{
+    height: 500px;
+    border: 5px #ffff solid;
+    padding:  100px 100px;
+}
